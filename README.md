@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yuvraj Singh Sukhmani</h1>
 <h3 align="center">Hey! I am Yuvraj Singh Sukhmani, a CSE Undergrad from India. I can code in Python, HTML, CSS, JS, PHP, DART & MySQL. I have a keen interest in Cloud Computing, AI & Machine Learning tools.</h3>
 
+[![An image of @uv1303's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/uv1303)](https://holopin.io/@uv1303)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sukhmani1303&label=Profile%20views&color=0e75b6&style=flat" alt="sukhmani1303" /> </p>
 
 - 📫 How to reach me **sukhmani1303@gmail.com**
